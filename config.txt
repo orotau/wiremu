@@ -1,0 +1,2 @@
+[graham-desktop-ubuntu]
+original_files_path = /home/graham/PythonProjects/wiremu/originalv6/
