@@ -63,40 +63,52 @@ def create_compact_html_files(letter):
     cf = config.ConfigFile()
     text_files_path = (cf.configfile[cf.computername]['original_files_path'])
 
-    sections_by_letter = {}
+    sections_and_pbs_by_letter = {}
     wiremu_dictionary_6_keys = []
 
     for dictionary_letter in dictionary_letters:
         if letter == dictionary_letter or letter == ALL_TEXT:
-            sections = []
+            sections_and_pbs = []
             # open the specific html file
             file_name = dictionary_letter + ".html"
             text_file_path = text_files_path + file_name
             with open(text_file_path, 'r') as f:
                 soup = BeautifulSoup(f)
-                soup_sections = soup.select(".section")
-                for soup_section in soup_sections:
+                soup_sections_and_pbs = soup.select(".section,.pb") #pb = page break
+                for soup_section_or_pb in soup_sections_and_pbs:
                     # remove the p tag with the id 'hang' as we don't need it
-                    if soup_section.select_one(".hang"):
-                        soup_section.select_one(".hang").unwrap()   
-                    sections.append(soup_section)
-            sections_by_letter[dictionary_letter] = sections
+                    if soup_section_or_pb.select_one(".hang"):
+                        soup_section_or_pb.select_one(".hang").unwrap()   
+                    sections_and_pbs.append(soup_section_or_pb)
+            sections_and_pbs_by_letter[dictionary_letter] = sections_and_pbs
 
     # create a list of keys for each section
     # Headword-PageNumber-Sequential Number for the letter E
     # For example "Engari-027-031"
     
-    for k, v in sections_by_letter.items():
-        for counter, section in enumerate(v):
-            if section.span is None:
-                print(counter, section)
-                print()
-                print("---------------------------")
+    for k, v in sections_and_pbs_by_letter.items():
+        for counter, section_or_pb in enumerate(v):
+            #print(counter)
+            #print("--")
+            #print(section_or_pb)
+            pass
+            
 
+    return True
+
+
+def get_page_numbers(sections_by_letter):
+    '''
+    given the dictionary passed returns the page number of each section
+
+    '''
+    page_numbers = []
+    return
+    
            
     
               
-    return True
+
 
 
 if __name__ == '__main__':
