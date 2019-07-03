@@ -1,2 +1,3 @@
 [graham-desktop-ubuntu]
 original_files_path = /home/graham/PythonProjects/wiremu/originalv6/
+compact_files_path = /home/graham/PythonProjects/wiremu/compactv6/
