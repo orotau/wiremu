@@ -33,8 +33,9 @@ See code below for format of the html
 import config
 import pprint
 from bs4 import BeautifulSoup
+from collections import OrderedDict, Counter
 
-ALL_TEXT = "All"
+PREFACE_PAGES_COUNT = 25 # the html treats page 1 as page 26, due to the preface pages xxv (25)
 
 dictionary_letters = ('A', 'E', 'H', 'I', 'K', 'M', 'N', 'Ng', 'O', 'P', 'R', 'T', 'U', 'W', 'Wh')
 start_pages = {
@@ -55,55 +56,65 @@ start_pages = {
     'Wh' : 484,
 }
 
-letter_choices = list(dictionary_letters)
-letter_choices.append(ALL_TEXT)
 
 def create_compact_html_files(letter):
 
     cf = config.ConfigFile()
     text_files_path = (cf.configfile[cf.computername]['original_files_path'])
+    sections_and_pbs = []
 
-    sections_and_pbs_by_letter = {}
-    wiremu_dictionary_6_keys = []
-
-    for dictionary_letter in dictionary_letters:
-        if letter == dictionary_letter or letter == ALL_TEXT:
-            sections_and_pbs = []
-            # open the specific html file
-            file_name = dictionary_letter + ".html"
-            text_file_path = text_files_path + file_name
-            with open(text_file_path, 'r') as f:
-                soup = BeautifulSoup(f)
-                soup_sections_and_pbs = soup.select(".section,.pb") #pb = page break
-                for soup_section_or_pb in soup_sections_and_pbs:
-                    # remove the p tag with the id 'hang' as we don't need it
-                    if soup_section_or_pb.select_one(".hang"):
-                        soup_section_or_pb.select_one(".hang").unwrap()   
-                    sections_and_pbs.append(soup_section_or_pb)
-            sections_and_pbs_by_letter[dictionary_letter] = sections_and_pbs
+    # open the specific html file
+    file_name = letter + ".html"
+    text_file_path = text_files_path + file_name
+    with open(text_file_path, 'r') as f:
+        soup = BeautifulSoup(f)
+        soup_sections_and_pbs = soup.select(".section,[title='page break']") #pb = page break
+        for soup_section_or_pb in soup_sections_and_pbs:
+            # remove the p tag with the id 'hang' as we don't need it
+            if soup_section_or_pb.select_one(".hang"):
+                soup_section_or_pb.select_one(".hang").unwrap()   
+            sections_and_pbs.append(soup_section_or_pb)
 
     # create a list of keys for each section
     # Headword-PageNumber-Sequential Number for the letter E
     # For example "Engari-027-031"
-    
-    for k, v in sections_and_pbs_by_letter.items():
-        for counter, section_or_pb in enumerate(v):
-            #print(counter)
-            #print("--")
-            #print(section_or_pb)
-            pass
-            
-
+    page_numbers = get_page_numbers(letter, sections_and_pbs)
+    od = OrderedDict(sorted(Counter(page_numbers).items()))
+    pprint.pprint(od)
+    pass
     return True
 
 
-def get_page_numbers(sections_by_letter):
+def get_page_numbers(letter, sections_and_pbs):
     '''
-    given the dictionary passed returns the page number of each section
+    given the list passed returns the page number of each section
+    Where a section spans 2 pages it will be split in two and a different page number
+    assigned to each part
+    '''   
 
-    '''
     page_numbers = []
-    return
+
+    for counter, section_or_pb in enumerate(sections_and_pbs):
+        # print(counter, section_or_pb.name)
+        # only going to create page numbers for sections
+        # find the first page break entry (if it exists), looking backwards from where we are
+        if section_or_pb.name == "div":
+            reversed_list_before = reversed(sections_and_pbs[:counter])
+            try:
+                page_break_entry = next(x for x in reversed_list_before if x.name == "a")
+                # print(page_break_entry)
+            except StopIteration:
+                # we are on the first page for the letter and it is not a brand new page
+                page_number_to_use = start_pages[letter]
+            else:
+                page_number = int(page_break_entry["href"].replace('#n', ''))
+                page_number_to_use = page_number - PREFACE_PAGES_COUNT
+
+            page_numbers.append(page_number_to_use)
+            print (page_number_to_use, section_or_pb["id"].replace(".", chr(772)))
+
+
+    return page_numbers
     
            
     
@@ -123,7 +134,7 @@ if __name__ == '__main__':
 
     # create the parser for the create_compact_html_files function
     create_compact_html_files_parser = subparsers.add_parser('create_compact_html_files')
-    create_compact_html_files_parser.add_argument('letter', choices = letter_choices)
+    create_compact_html_files_parser.add_argument('letter', choices = list(dictionary_letters))
     create_compact_html_files_parser.set_defaults(function = create_compact_html_files)
 
     # parse the arguments
