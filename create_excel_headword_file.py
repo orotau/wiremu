@@ -22,7 +22,6 @@ The key element being the id of the div, that is "Ekieki"
 import config
 import pprint
 from bs4 import BeautifulSoup
-from collections import OrderedDict, Counter
 from openpyxl import Workbook
 from openpyxl.worksheet.datavalidation import DataValidation
 from openpyxl.styles import NamedStyle, Alignment, Font

@@ -12,7 +12,7 @@ class ConfigFile():
     # Otherwise you will just get the last entry for the computer!
 
     config_paths = {
-        'graham-desktop-ubuntu': '/home/graham/PythonProjects/wiremu/config.txt',
+        'TeAoHous-MacBook-Air.local': '/Users/teaohou/mahi/wiremu/config.txt'
         }
 
     def __init__(self):

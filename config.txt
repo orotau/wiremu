@@ -2,3 +2,7 @@
 original_files_path = /home/graham/PythonProjects/wiremu/originalv6/
 compact_files_path = /home/graham/PythonProjects/wiremu/compactv6/
 excel_files_path = /home/graham/PythonProjects/wiremu/excel_files/
+
+[TeAoHous-MacBook-Air.local]
+original_files_path = /Users/teaohou/mahi/wiremu/originalv6/
+excel_files_path = /Users/teaohou/mahi/wiremu/excel_files/
