@@ -1,8 +1,4 @@
-[graham-desktop-ubuntu]
-original_files_path = /home/graham/PythonProjects/wiremu/originalv6/
-compact_files_path = /home/graham/PythonProjects/wiremu/compactv6/
-excel_files_path = /home/graham/PythonProjects/wiremu/excel_files/
-
 [TeAoHous-MacBook-Air.local]
-original_files_path = /Users/teaohou/mahi/wiremu/originalv6/
+v6_files_path = /Users/teaohou/mahi/wiremu/originalv6/
+new_v6_files_path = /Users/teaohou/mahi/wiremu/newv6/
 excel_files_path = /Users/teaohou/mahi/wiremu/excel_files/
