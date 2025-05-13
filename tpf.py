@@ -1,4 +1,6 @@
 import config
+from bs4 import BeautifulSoup
+from pathlib import Path
 
 def parse_v6(letter):
     cf = config.ConfigFile()
