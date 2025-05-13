@@ -1,3 +1,5 @@
+import config
+
 def parse_v6(letter):
     cf = config.ConfigFile()
     v6_files_path = cf.configfile[cf.computername]['v6_files_path']
@@ -8,6 +10,8 @@ def parse_v6(letter):
     text_file_path = v6_files_path + file_name
     with open(text_file_path, 'r', encoding='utf-8') as f:
         soup = BeautifulSoup(f, "lxml")
+
+    print(soup.get_text())
 
     # Find all <b> tags
     b_tags = soup.find_all('b')
@@ -23,3 +27,6 @@ def parse_v6(letter):
 
     with open(output_file_path, "w", encoding='utf-8') as file:
         file.write(str(soup))
+
+if __name__ == '__main__':
+    parse_v6("E")
