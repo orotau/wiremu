@@ -11,7 +11,7 @@ def parse_v6(letter):
     file_name = letter + ".html"
     text_file_path = v6_files_path + file_name
     with open(text_file_path, 'r', encoding='utf-8') as f:
-        soup = BeautifulSoup(f, "lxml")
+        soup = BeautifulSoup(f, "xml")
 
     print(soup.get_text())
 
@@ -29,6 +29,7 @@ def parse_v6(letter):
 
     with open(output_file_path, "w", encoding='utf-8') as file:
         file.write(str(soup))
+    print(output_file_path)
 
 if __name__ == '__main__':
     parse_v6("E")
