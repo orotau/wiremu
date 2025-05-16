@@ -14,7 +14,7 @@ def parse_v6(letter):
         soup = BeautifulSoup(f, "xml")
 
     print(soup.get_text())
-
+    '''
     # Find all <b> tags
     b_tags = soup.find_all('b')
 
@@ -29,7 +29,7 @@ def parse_v6(letter):
 
     with open(output_file_path, "w", encoding='utf-8') as file:
         file.write(str(soup))
-    print(output_file_path)
+    '''
 
 if __name__ == '__main__':
     parse_v6("E")
