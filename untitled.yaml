@@ -5,38 +5,36 @@
 #####
 ---
 rākau:
-  tīwai: Ē
+  ingoa_rākau: Ē
   tau_rākau: 1 #single tree
   tau_peka: 1 #first of 2 branches
   whakamahinga_kupu: Int. 
   whakamāoritanga: >
     In poetry, at the end of a line or stanza, without any particular meaning.
 
-  tauira:  
-    - rerenga_kōrero: Te marama i runga rā, ē.
-      takenga_mai: (M. 191)
+tauira:  
+  - rerenga_kōrero: Te marama i runga rā, ē.
+    takenga_mai: (M. 191)
 ...
-
 ---
 rākau:
-  tīwai: Ē
+  ingoa_rākau: Ē
   tau_rākau: 1
   tau_peka: 2
   whakamahinga_kupu: v.i.
   whakamāoritanga: >
     Exclaim
 
-  tauira:  
-    - rerenga_kōrero: “E!”
-      takenga_mai: null
+tauira:  
+  - rerenga_kōrero: “E!”
+    takenga_mai: null
 ...
-
 #####
 # E #
 #####
 ---
 rākau:
-  tīwai: E
+  ingoa_rākau: E
   tau_rākau: 1
   tau_peka: 1
   whakamahinga_kupu: particle
@@ -45,61 +43,15 @@ rākau:
     ana, nei, nā, etc., to denote action in progress, 
     or temporary condition, in time past, present, or future. 
 
-  tauira: 
-    - rerenga_kōrero: E haere ana māua ki reira 
-      takenga_mai: (T. 145)
-    - rerenga_kōrero: E ora ana anō māua 
-      takenga_mai: (T. 176)
+tauira: 
+  - rerenga_kōrero: E haere ana maua ki reira 
+    takenga_mai: (T. 145)
+  - rerenga_kōrero: E ora ana ano maua 
+    takenga_mai: (T. 176)
 ...
+2. Before verbs or adjectives without a following particle, to denote future action or condition. Tera pea e tae mai ki konei (T. 188).
 
----  
-rākau:
-  tīwai: E
-  tau_rākau: 1
-  tau_peka: 2
-  whakamahinga_kupu: null
-  whakamāoritanga: >
-    Before verbs or adjectives without a following particle, to denote future action or condition.   
-
-  tauira: 
-    - rerenga_kōrero: Tērā pea e tae mai ki konei
-      takenga_mai: (T. 188)
-...
-
----  
-rākau:
-  tīwai: E
-  tau_rākau: 1
-  tau_peka: 3
-  whakamahinga_kupu: null
-  whakamāoritanga: >
-    In a negative clause answering to the last, to introduce the negative.   
-
-  tauira: 
-    - rerenga_kōrero: E kore kōrua e māia
-      takenga_mai: (T. 200)
-...
-
----  
-rākau:
-  tīwai: E
-  tau_rākau: 1
-  tau_peka: 4
-  whakamahinga_kupu: 
-  whakamāoritanga: >
-    
-
-  tauira: 
-    - rerenga_kōrero: 
-      takenga_mai: 
-...
-
-
-
-
-
-
-3. In a negative clause answering to the last, to introduce the negative. E kore korua e maia .
+3. In a negative clause answering to the last, to introduce the negative. E kore korua e maia (T. 200).
 
 4. Before verbs, to form an imperative. Ka mea atu taua hunga, “E haka” (T. 65). Kaua e titiro atu, kei mate korua (T. 48).
 
