@@ -3,127 +3,138 @@
 #####
 # Ē #
 #####
----
-rākau:
-  tīwai: Ē
-  tau_rākau: 1 #single tree
-  tau_peka: 1 #first of 2 branches
-  whakamahinga_kupu: Int. 
-  whakamāoritanga: >
-    In poetry, at the end of a line or stanza, without any particular meaning.
+Ē:
+  - branch_number: i-1
+    part_of_speech: Int.
+    definition: >
+      In poetry, at the end of a line or stanza, without any particular meaning.
 
-  tauira:  
-    - rerenga_kōrero: Te marama i runga rā, ē.
-      takenga_mai: (M. 191)
-...
+    examples_of_use:  
+      - text: Te marama i runga rā, ē.
+        source: (M. 191)
 
----
-rākau:
-  tīwai: Ē
-  tau_rākau: 1
-  tau_peka: 2
-  whakamahinga_kupu: v.i.
-  whakamāoritanga: >
-    Exclaim
 
-  tauira:  
-    - rerenga_kōrero: “E!”
-      takenga_mai: null
-...
+  - branch_number: i-2
+    part_of_speech: v.i.
+    definition: >
+      Exclaim
 
+    examples_of_use:  
+      - text: “E!”
+        source: null
 #####
 # E #
 #####
 ---
-rākau:
-  tīwai: E
-  tau_rākau: 1
-  tau_peka: 1
-  whakamahinga_kupu: particle
-  whakamāoritanga: >
-    Used before verbs or adjectives followed by
-    ana, nei, nā, etc., to denote action in progress, 
-    or temporary condition, in time past, present, or future. 
+E:
+  - branch_number: i-1
+    part_of_speech: particle
+    definition: >
+      Used before verbs or adjectives followed by
+      ana, nei, nā, etc., to denote action in progress, 
+      or temporary condition, in time past, present, or future. 
 
-  tauira: 
-    - rerenga_kōrero: E haere ana māua ki reira 
-      takenga_mai: (T. 145)
-    - rerenga_kōrero: E ora ana anō māua 
-      takenga_mai: (T. 176)
-...
+    examples_of_use: 
+      - text: E haere ana māua ki reira 
+        source: (T. 145)
+      - text: E ora ana anō māua 
+        source: (T. 176)
 
----  
-rākau:
-  tīwai: E
-  tau_rākau: 1
-  tau_peka: 2
-  whakamahinga_kupu: null
-  whakamāoritanga: >
-    Before verbs or adjectives without a following particle, to denote future action or condition.   
 
-  tauira: 
-    - rerenga_kōrero: Tērā pea e tae mai ki konei
-      takenga_mai: (T. 188)
-...
+  - branch_number: i-2
+    part_of_speech: null
+    definition: >
+      Before verbs or adjectives without a following particle, to denote future action or condition.   
 
----  
-rākau:
-  tīwai: E
-  tau_rākau: 1
-  tau_peka: 3
-  whakamahinga_kupu: null
-  whakamāoritanga: >
-    In a negative clause answering to the last, to introduce the negative.   
+    examples_of_use: 
+      - text: Tērā pea e tae mai ki konei
+        source: (T. 188)
 
-  tauira: 
-    - rerenga_kōrero: E kore kōrua e māia
-      takenga_mai: (T. 200)
-...
 
----  
-rākau:
-  tīwai: E
-  tau_rākau: 1
-  tau_peka: 4
-  whakamahinga_kupu: 
-  whakamāoritanga: >
+  - branch_number: i-3
+    part_of_speech: null
+    definition: >
+      In a negative clause answering to the last, to introduce the negative.   
+
+    examples_of_use: 
+      - text: E kore kōrua e māia
+        source: (T. 200)
+   
+
+  - branch_number: i-4
+    part_of_speech: null
+    definition: >
+      Before verbs, to form an imperative.
+
+    examples_of_use: 
+      - text: Ka mea atu taua hunga, “E haka”
+        source: (T. 65)
+      - text: Kaua e titiro atu, kei mate kōrua
+        source: (T. 48)
+ 
+
+  - branch_number: i-5
+    part_of_speech: null
+    definition: >
+      Before the interrogative hia, and the cardinal numbers from two to nine, in a statement regarding the number of articles.
+
+    examples_of_use: 
+      - text: Ka tatau anō, tatau rawa iho e waru anō taro, kua riro e rua
+        source: (T. 49) 
+      - text: Ka tango ia i ngā taha e ono
+        source: (T. 132)
+  
+
+  - branch_number: i-6
+    part_of_speech: null
+    definition: >
+      In relative clauses, after a
+      negative, with reference even to time past
+
+    examples_of_use: 
+      - text: Te mea i kore ai e nehua
+        source: null
+        translation: The reason they were not buried
+ 
+
+  - branch_number: ii-1
+    part_of_speech: prep
+    definition: >
+      By, of the agent, and following passives only
+
+    examples_of_use: 
+      - text: I ngarea mai au e Paoa
+        source: (T. 187)
+
     
+  - branch_number: iii-1
+    part_of_speech: int
+    definition: >
+      Vocative "O"
+      Often used after, as well as before a name.
 
-  tauira: 
-    - rerenga_kōrero: 
-      takenga_mai: 
-...
-
-
-
-
-
-
-3. In a negative clause answering to the last, to introduce the negative. E kore korua e maia .
-
-4. Before verbs, to form an imperative. Ka mea atu taua hunga, “E haka” (T. 65). Kaua e titiro atu, kei mate korua (T. 48).
-
-5. Before the interrogative
-              hia, and the cardinal numbers from two to nine, in a statement regarding the number of articles. Ka tatau ano, tatau rawa iho e waru ano taro, kua riro e rua (T. 49). Ka tango ia i nga taha e ono (T. 132).
-
-6. In relative clauses, after a
-              negative, with reference even to time past,
-              Te mea i kore ai e nehua (
-              The reason they
-                were not buried).
+    examples_of_use: 
+      - text: E koro mā, kawea au kia kite i ō tuākana
+        source: (T. 197) 
+      - text: E Turi e ! E Turi e ! whakahokia ki uta
+        source: (T. 111)
 
 
+  - branch_number: iii-2
+    part_of_speech: null
+    definition: >
+      Calling attention, or expressing surprise
 
-E (ii), prep.
-              By, of the agent, and following passives only. I ngarea mai au e Paoa (T. 187).
+    examples_of_use: 
+      - text: E ! kua ora a Raumati
+        source: (T. 102) 
+      - text: E ! ko te Te Kahureremoa
+        source: (T. 144)
 
 
 
-E (iii), int.
-              1. Vocative,
-              O. E koro ma, kawea au kia kite i o tuakana (T. 197). Often used after, as well as before a name. E Turi e ! E Turi e ! whakahokia ki uta (T. 111).
 
-2. Calling attention, or expressing surprise. E ! kua ora a Raumati (T. 102). E ! ko te Te Kahureremoa (T. 144).
+E ! kua ora a Raumati (T. 102). E ! ko te Te Kahureremoa (T. 144).
 
 
 
