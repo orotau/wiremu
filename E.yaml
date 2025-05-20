@@ -1,5 +1,5 @@
 # E #
-
+---
 #####
 # Ē #
 #####
@@ -22,10 +22,10 @@
     examples_of_use:  
       - text: “E!”
         source: null
+---
 #####
 # E #
 #####
----
 E:
   - branch_number: i-1
     part_of_speech: particle
@@ -116,7 +116,7 @@ E:
     examples_of_use: 
       - text: E koro mā, kawea au kia kite i ō tuākana
         source: (T. 197) 
-      - text: E Turi e ! E Turi e ! whakahokia ki uta
+      - text: E Turi e! E Turi e! whakahokia ki uta
         source: (T. 111)
 
 
@@ -126,17 +126,11 @@ E:
       Calling attention, or expressing surprise
 
     examples_of_use: 
-      - text: E ! kua ora a Raumati
+      - text: E! kua ora a Raumati
         source: (T. 102) 
-      - text: E ! ko te Te Kahureremoa
+      - text: E! ko te Te Kahureremoa
         source: (T. 144)
-
-
-
-
-E ! kua ora a Raumati (T. 102). E ! ko te Te Kahureremoa (T. 144).
-
-
+      
 
 
 

@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"E",
+				"“E"
+			],
+			[
+				"ta",
+				"takenga_mai"
+			],
+			[
+				"wh",
+				"whakamāoritanga"
+			],
+			[
+				"wha",
+				"whakamahinga_kupu"
+			],
+			[
+				"tau",
+				"tau_peka"
+			],
+			[
+				"t",
+				"tau_rākau"
+			],
+			[
+				"whaka",
+				"whakamāoritanga"
+			],
+			[
+				"tau_",
+				"tau_rākau"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insert",
+				"Insert Rākau YAML"
+			],
+			[
+				"package contr",
+				"Package Control: Enable Package"
+			],
+			[
+				"inse",
+				"Insert Rākau YAML"
+			],
+			[
+				"box",
+				"Box Word"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"package control: rm",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: un",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"preferences ESP-",
+				"Preferences: LSP-eslint Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagedev",
+				"PackageDev: Edit Current Theme"
+			],
+			[
+				"origa",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"origami",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"package de",
+				"PackageDev: Edit Current Theme"
+			],
+			[
+				"Terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			],
+			[
+				"packagecontrol",
+				"Install Package Control"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"edit",
+				"PackageDev: Edit Current Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build With: Python + Virtualenv"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"virt",
+				"Build With: Python + Virtualenv"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 103.0,
+		"history":
+		[
+			"window.run_command(\"expand_selection\", {\"to\": \"brackets\"})",
+			"import sys; sys.stdout.write('\\n' * 100)",
+			"view.settings().get('spelling_selector')",
+			"view.settings().get(spelling_selector')",
+			"view.settings().get('spelling_selector')",
+			"view.settings().get(spelling_selector')",
+			"print(\"hello\")",
+			"view.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')",
+			"\nview.settings().get('dictionary')",
+			"view.settings().get('dictionary')\nview.settings().get('dictionary')",
+			"print(\"hello\")",
+			"view.settings().get('dictionary')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('dictionary')",
+			"\nview.settings().get('dictionary')",
+			"view.settings().get('dictionary')\nview.settings().get('dictionary')",
+			"\nview.settings().get('dictionary')",
+			"view.settings().get('dictionary')\nview.settings().get('dictionary')",
+			"print(\"hello\")",
+			"view.settings().get('dictionary')\nview.settings().get('dictionary')",
+			"\nview.settings().get('dictionary')",
+			"view.settings().get('dictionary')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('dictionary')",
+			"view.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('dictionary')",
+			"view.settings().get('spelling_selector')",
+			"view.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')",
+			"view.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')",
+			"view.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')\nview.settings().get('spelling_selector')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/teaohou/mahi/wiremu/E.yaml",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/YAML-with-Roman.sublime-syntax",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/box_word.sublime-commands",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/insert_rakau_yaml.py",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/box_word.py",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/insert_rakau_yaml.sublime-commands",
+		"/Users/teaohou/mahi/wiremu/make_title.py",
+		"/Users/teaohou/mahi/wiremu/untitled.yaml",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/wiremu.sublime-project",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/teaohou/mahi/wiremu/tpf.py",
+		"/Users/teaohou/mahi/wiremu/originalv6/E.html",
+		"/Users/teaohou/mahi/wiremu/originalv6/A.html",
+		"/Users/teaohou/mahi/wiremu/html5-stub.html",
+		"/Users/teaohou/mahi/wiremu/FinishedTeRoSpelling/E.html",
+		"/Users/teaohou/mahi/wiremu/excel_files/E.xlsx",
+		"/Users/teaohou/mahi/wiremu/newv6/E.html",
+		"/Users/teaohou/mahi/wiremu/pyvenv.cfg",
+		"/Users/teaohou/mahi/wiremu/config.py",
+		"/Users/teaohou/mahi/wiremu/newv6/bad-html-parser.html",
+		"/Users/teaohou/mahi/wiremu/bad.py",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/Virtualenv/Python + Virtualenv.sublime-build",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/Adaptive.sublime-theme",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/Theme - Default/Adaptive.sublime-theme",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/Python3-13.sublime-build"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Virtual Environment",
+	"project": "pyvenv.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
