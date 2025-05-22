@@ -5,21 +5,24 @@
 #####
 Ē:
   - branch_number: i-1
+    parent: null
     part_of_speech: Int.
     definition: >
-      In poetry, at the end of a line or stanza, without any particular meaning.
+      In poetry, at the end of a line or stanza, without
+      any particular meaning.
 
-    examples_of_use:  
+    examples_of_use:
       - text: Te marama i runga rā, ē.
         source: (M. 191)
 
 
   - branch_number: i-2
+    parent: null
     part_of_speech: v.i.
     definition: >
       Exclaim
 
-    examples_of_use:  
+    examples_of_use:
       - text: “E!”
         source: null
 ---
@@ -28,176 +31,332 @@
 #####
 E:
   - branch_number: i-1
+    parent: null
     part_of_speech: particle
     definition: >
       Used before verbs or adjectives followed by
-      ana, nei, nā, etc., to denote action in progress, 
-      or temporary condition, in time past, present, or future. 
+      ana, nei, nā, etc., to denote action in progress,
+      or temporary condition, in time past, present, or future.
 
-    examples_of_use: 
-      - text: E haere ana māua ki reira 
+    examples_of_use:
+      - text: E haere ana māua ki reira
         source: (T. 145)
-      - text: E ora ana anō māua 
+      - text: E ora ana anō māua
         source: (T. 176)
 
 
   - branch_number: i-2
+    parent: null
     part_of_speech: null
     definition: >
-      Before verbs or adjectives without a following particle, to denote future action or condition.   
+      Before verbs or adjectives without a following particle,
+      to denote future action or condition.
 
-    examples_of_use: 
+    examples_of_use:
       - text: Tērā pea e tae mai ki konei
         source: (T. 188)
 
 
   - branch_number: i-3
+    parent: null
     part_of_speech: null
     definition: >
-      In a negative clause answering to the last, to introduce the negative.   
+      In a negative clause answering to the last, to introduce the negative.
 
-    examples_of_use: 
+    examples_of_use:
       - text: E kore kōrua e māia
         source: (T. 200)
-   
+
 
   - branch_number: i-4
+    parent: null
     part_of_speech: null
     definition: >
       Before verbs, to form an imperative.
 
-    examples_of_use: 
+    examples_of_use:
       - text: Ka mea atu taua hunga, “E haka”
         source: (T. 65)
       - text: Kaua e titiro atu, kei mate kōrua
         source: (T. 48)
- 
+
 
   - branch_number: i-5
+    parent: null
     part_of_speech: null
     definition: >
-      Before the interrogative hia, and the cardinal numbers from two to nine, in a statement regarding the number of articles.
+      Before the interrogative hia, and the cardinal
+      numbers from two to nine,
+      in a statement regarding the number of articles.
 
-    examples_of_use: 
+    examples_of_use:
       - text: Ka tatau anō, tatau rawa iho e waru anō taro, kua riro e rua
-        source: (T. 49) 
+        source: (T. 49)
       - text: Ka tango ia i ngā taha e ono
         source: (T. 132)
-  
+
 
   - branch_number: i-6
+    parent: null
     part_of_speech: null
     definition: >
       In relative clauses, after a
       negative, with reference even to time past
 
-    examples_of_use: 
+    examples_of_use:
       - text: Te mea i kore ai e nehua
         source: null
         translation: The reason they were not buried
- 
+
 
   - branch_number: ii-1
+    parent: null
     part_of_speech: prep
     definition: >
       By, of the agent, and following passives only
 
-    examples_of_use: 
+    examples_of_use:
       - text: I ngarea mai au e Paoa
         source: (T. 187)
 
-    
+
   - branch_number: iii-1
+    parent: null
     part_of_speech: int
     definition: >
       Vocative "O"
       Often used after, as well as before a name.
 
-    examples_of_use: 
+    examples_of_use:
       - text: E koro mā, kawea au kia kite i ō tuākana
-        source: (T. 197) 
+        source: (T. 197)
       - text: E Turi e! E Turi e! whakahokia ki uta
         source: (T. 111)
 
 
   - branch_number: iii-2
+    parent: null
     part_of_speech: null
     definition: >
       Calling attention, or expressing surprise
 
-    examples_of_use: 
+    examples_of_use:
       - text: E! kua ora a Raumati
-        source: (T. 102) 
+        source: (T. 102)
       - text: E! ko te Te Kahureremoa
         source: (T. 144)
-      
 
 
+  - branch_number: iv-1
+    parent: null
+    part_of_speech: conj
+    definition: >
+      If, when.
+
+    examples_of_use:
+      - text: Ka ora rapea ahau, e ka tuaina ki te moana
+        source: (M. vii)
+      - text: Koia tēnei pepeha mō te mea kite, e ka kitea te taonga makere
+        source: (M. xi)
+        bit: It is often used without any verbal particle
+      - text: E whiti koe ki rawahi, me haere tonu atu koe
+        source: (T. 110)
+        whakapākehātanga: When you get across the sea, go right on
+      - text: E ua patapata nunui, ka mate au
+        source: (T. 61)
+        whakapākehātanga: If it rains heavily, I shall have died
 
 
+  - branch_number: v-1
+    parent: null
+    part_of_speech: particle
+    definition: >
+      Sometimes used before roto and other local nouns
+      (F.L. § 8) when they stand as subject to a
+      sentence, particularly in poetry.
 
-E (iv), conj.
-              1.
-              If, when. Ka ora rapea ahau, e ka tuaina ki te moana (M. vii). Koia tenei pepeha mo te mea kite, e ka kitea te taonga makere (M. xi). It is often used without any verbal particle: E whiti koe ki rawahi, me haere tonu atu koe (
-              When you get across the sea, go right on) (T. 110). E ua patapata nunui, ka mate au (
-              If it rains heavily, I shall have died) (T. 61).
+    examples_of_use:
+      - text: I mihi mai e waho, i riri mai e roto
+        source: (M. 267)
+      - text: E mua āta haere, e muri tata kino
+        source: (P.)
 
-2. To give emphasis.
-              Why, of course. “E haere atu ana ahau ki te whakataki i taku kotiro.” “Kei hea?” “E, kei te rangi” (T. 49).
+---
+######
+# Eā #
+######
+Eā:
+  - branch_number: i-1
+    parent: null
+    part_of_speech: int
+    definition: >
+      expressing surprise
+
+    examples_of_use:
+      - text: Eā! kua mate tāu mōkai
+        source: (T. 161)
+
+---
+######
+# Ea #
+######
+Ea:
+  - branch_number: i-1
+    parent: null
+    part_of_speech: v.i.
+    definition: >
+      Appear above water.
+
+    examples_of_use:
+      - text: Kia timu te tai ka ea ai ngā toka ki runga.
+        source: null
 
 
+  - branch_number: i-2
+    parent: null
+    part_of_speech: null
+    definition: >
+       Be flooded, of a house, camp, etc.
 
-E (v), particle. Sometimes used before
-              roto and other local nouns (F.L. § 8) when they stand as subject to a sentence, particularly in poetry. I mihi mai e waho, i riri mai e roto (M. 267). E mua ata haere, e muri tata kino (P.).
+    examples_of_use:
+      - text: Kua ea katoa tō whare.—He takere toea, ea katoa a roto o te whare.
+        source: null
 
 
+  - branch_number: i-3
+    parent: null
+    part_of_speech: null
+    definition: >
+      Rise, as heavenly bodies.
 
-Eā, int. expressing surprise. Ea ! kua mate tau mokai (T. 161).
+    examples_of_use:
+      - text: Ka ea mai a Whanui.
+        source: null
 
 
+  - branch_number: i-4
+    parent: null
+    part_of_speech: null
+    definition: >
+      Reappear, as the moon at new moon.
 
-Ea, v.i.
-              1.
-              Appear above water. Kia timu te tai ka ea ai nga toka ki runga.
+    examples_of_use:
+      - text: Ka tatari a Maia kia ea te marama, ara kia tae ki te Hoata.
+        source: null
 
-2.
-              Be flooded, of a house, camp, etc. Kua ea katoa to whare.—He takere toea, ea katoa a roto o te whare.
 
-3.
-              Rise, as heavenly bodies. Ka ea mai a Whanui.
+  - branch_number: i-5
+    parent: null
+    part_of_speech: null
+    definition: >
+      Be brought to land.
 
-4.
-              Reappear, as the moon at new moon. Ka tatari a Maia kia ea te marama, ara kia tae ki te Hoata.
+    examples_of_use:
+      - text: Ka ea te kupenga ki tahaki.—Ka ea tō ika he haku nō te moana uri
+        source: (M. 10)
 
-5.
-              Be brought to land. Ka ea te kupenga ki tahaki.—Ka ea to ika he haku no te maoana uri (M. 10).
 
-6.
-              Be avenged, requited. Ka ea te mate o Tuhuruhuru (T. 62). Ka ea tana kanga i a Mutahanga, i a Manahua (T. 93).
+  - branch_number: i-6
+    parent: null
+    part_of_speech: null
+    definition: >
+      Be avenged, requited.
 
-7.
-              So, be paid for. Kaore ano i ea toku kakahu. Tu pupu, tu ngaro; tu kete, tu ea. (
-              A portion [of food]
-              in a little bundle is a portion lost; a portion in a basket, a portion to be repaid) (P.).
+    examples_of_use:
+      - text: Ka ea te mate o Tuhuruhuru
+        source: (T. 62)
+      - text: Ka ea tana kanga i a Mutahanga, i a Manahua
+        source: (T. 93)
 
-8.
-              Be paid. Ka ea te utu.
 
-9.
-              Be produced, come up, as a crop.
+  - branch_number: i-7
+    parent: null
+    part_of_speech: null
+    definition: >
+      So, be paid for.
 
-10.
-              Be performed, as a religious rite, Ka ea te purenga (T. 83).
+    examples_of_use:
+      - text: Kāore anō i ea tōku kākahu.
+        source: null
+      - text: 'Tu pupu, tu ngaro; tu kete, tu ea.'
+        source: (P.)
+        english_translation: >
+          A portion [of food] in a little bundle is a portion
+          lost; a portion in a basket, a portion to be repaid.
 
-whakaea.
-              1. v.t.
-              Pay for.
 
-2.
-              Avenge.
+  - branch_number: i-8
+    parent: null
+    part_of_speech: null
+    definition: >
+      Be paid.
 
-3.
-              Perform an incantation. Po rawa iho, ka marere o te maia ra o Ngatoro, kei te whakaea, kei te karangaranga i te hau, me te ua, me te whatitiri (M. xxi).
+    examples_of_use:
+      - text: Ka ea te utu.
+        source: null
+
+
+  - branch_number: i-9
+    parent: null
+    part_of_speech: null
+    definition: >
+      Be produced, come up, as a crop.
+
+    examples_of_use:
+      - text: null
+        source: null
+
+
+  - branch_number: i-10
+    parent: null
+    part_of_speech: null
+    definition: >
+      Be performed, as a religious rite
+
+    examples_of_use:
+      - text: Ka ea te purenga
+        source: (T. 83)
+
+
+---
+###########
+# whakaea #
+###########
+whakaea:
+  - branch_number: i-1
+    parent: ea
+    part_of_speech: v.t.
+    definition: >
+      Pay for.
+
+    examples_of_use:
+      - text: null
+        source: null
+
+
+  - branch_number: i-2
+    parent: ea
+    part_of_speech: null
+    definition: >
+      Avenge.
+
+    examples_of_use:
+      - text: null
+        source: null
+
+
+  - branch_number: i-3
+    parent: engari
+    part_of_speech: null
+    definition: >
+      Perform an incantation.
+
+    examples_of_use:
+      - text: Pō rawa iho, ka marere o te māia rā o Ngatoro,
+              kei te whakaea, kei te karangaranga i te hau,
+              me te ua, me te whatitiri
+        source: (M. xxi)
+
 
 4.
               Spread, extend. Whakaea marire atu aku parirau (M. 113).

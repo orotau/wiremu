@@ -39,91 +39,26 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "# E #\n\n#####\n# Ē #\n#####\nĒ:\n  - branch_number: i-1\n    part_of_speech: Int.\n    definition: >\n      In poetry, at the end of a line or stanza, without any particular meaning.\n\n    examples_of_use:  \n      - text: Te marama i runga rā, ē.\n        source: (M. 191)\n\n\n  - branch_number: i-2\n    part_of_speech: v.i.\n    definition: >\n      Exclaim\n\n    examples_of_use:  \n      - text: “E!”\n        source: null\n#####\n# E #\n#####\n---\nE:\n  - branch_number: i-1\n    part_of_speech: particle\n    definition: >\n      Used before verbs or adjectives followed by\n      ana, nei, nā, etc., to denote action in progress, \n      or temporary condition, in time past, present, or future. \n\n    examples_of_use: \n      - text: E haere ana māua ki reira \n        source: (T. 145)\n      - text: E ora ana anō māua \n        source: (T. 176)\n\n\n  - branch_number: i-2\n    part_of_speech: null\n    definition: >\n      Before verbs or adjectives without a following particle, to denote future action or condition.   \n\n    examples_of_use: \n      - text: Tērā pea e tae mai ki konei\n        source: (T. 188)\n\n\n  - branch_number: i-3\n    part_of_speech: null\n    definition: >\n      In a negative clause answering to the last, to introduce the negative.   \n\n    examples_of_use: \n      - text: E kore kōrua e māia\n        source: (T. 200)\n   \n\n  - branch_number: i-4\n    part_of_speech: null\n    definition: >\n      Before verbs, to form an imperative.\n\n    examples_of_use: \n      - text: Ka mea atu taua hunga, “E haka”\n        source: (T. 65)\n      - text: Kaua e titiro atu, kei mate kōrua\n        source: (T. 48)\n \n\n  - branch_number: i-5\n    part_of_speech: null\n    definition: >\n      Before the interrogative hia, and the cardinal numbers from two to nine, in a statement regarding the number of articles.\n\n    examples_of_use: \n      - text: Ka tatau anō, tatau rawa iho e waru anō taro, kua riro e rua\n        source: (T. 49) \n      - text: Ka tango ia i ngā taha e ono\n        source: (T. 132)\n  \n\n  - branch_number: i-6\n    part_of_speech: null\n    definition: >\n      In relative clauses, after a\n      negative, with reference even to time past\n\n    examples_of_use: \n      - text: Te mea i kore ai e nehua\n        source: null\n        translation: The reason they were not buried\n \n\n  - branch_number: ii-1\n    part_of_speech: prep\n    definition: >\n      By, of the agent, and following passives only\n\n    examples_of_use: \n      - text: I ngarea mai au e Paoa\n        source: (T. 187)\n\n    \n  - branch_number: iii-1\n    part_of_speech: int\n    definition: >\n      Vocative \"O\"\n      Often used after, as well as before a name.\n\n    examples_of_use: \n      - text: E koro mā, kawea au kia kite i ō tuākana\n        source: (T. 197) \n      - text: E Turi e! E Turi e! whakahokia ki uta\n        source: (T. 111)\n\n\n  - branch_number: iii-2\n    part_of_speech: null\n    definition: >\n      Calling attention, or expressing surprise\n\n    examples_of_use: \n      - text: E! kua ora a Raumati\n        source: (T. 102) \n      - text: E! ko te Te Kahureremoa\n        source: (T. 144)\n      \n\n\n\n\n\n\nE (iv), conj.\n              1.\n              If, when. Ka ora rapea ahau, e ka tuaina ki te moana (M. vii). Koia tenei pepeha mo te mea kite, e ka kitea te taonga makere (M. xi). It is often used without any verbal particle: E whiti koe ki rawahi, me haere tonu atu koe (\n              When you get across the sea, go right on) (T. 110). E ua patapata nunui, ka mate au (\n              If it rains heavily, I shall have died) (T. 61).\n\n2. To give emphasis.\n              Why, of course. “E haere atu ana ahau ki te whakataki i taku kotiro.” “Kei hea?” “E, kei te rangi” (T. 49).\n\n\n\nE (v), particle. Sometimes used before\n              roto and other local nouns (F.L. § 8) when they stand as subject to a sentence, particularly in poetry. I mihi mai e waho, i riri mai e roto (M. 267). E mua ata haere, e muri tata kino (P.).\n\n\n\nEā, int. expressing surprise. Ea ! kua mate tau mokai (T. 161).\n\n\n\nEa, v.i.\n              1.\n              Appear above water. Kia timu te tai ka ea ai nga toka ki runga.\n\n2.\n              Be flooded, of a house, camp, etc. Kua ea katoa to whare.—He takere toea, ea katoa a roto o te whare.\n\n3.\n              Rise, as heavenly bodies. Ka ea mai a Whanui.\n\n4.\n              Reappear, as the moon at new moon. Ka tatari a Maia kia ea te marama, ara kia tae ki te Hoata.\n\n5.\n              Be brought to land. Ka ea te kupenga ki tahaki.—Ka ea to ika he haku no te maoana uri (M. 10).\n\n6.\n              Be avenged, requited. Ka ea te mate o Tuhuruhuru (T. 62). Ka ea tana kanga i a Mutahanga, i a Manahua (T. 93).\n\n7.\n              So, be paid for. Kaore ano i ea toku kakahu. Tu pupu, tu ngaro; tu kete, tu ea. (\n              A portion [of food]\n              in a little bundle is a portion lost; a portion in a basket, a portion to be repaid) (P.).\n\n8.\n              Be paid. Ka ea te utu.\n\n9.\n              Be produced, come up, as a crop.\n\n10.\n              Be performed, as a religious rite, Ka ea te purenga (T. 83).\n\nwhakaea.\n              1. v.t.\n              Pay for.\n\n2.\n              Avenge.\n\n3.\n              Perform an incantation. Po rawa iho, ka marere o te maia ra o Ngatoro, kei te whakaea, kei te karangaranga i te hau, me te ua, me te whatitiri (M. xxi).\n\n4.\n              Spread, extend. Whakaea marire atu aku parirau (M. 113).\n\n5. v.i.\n              Appear above the surface. Nga motu whakaea i waho o Motutawa (M. 333).\n\n6.\n              So, draw breath. Whakaea te manawa o Rangi (M. 356).\n\n7. n. A species of\n              eel found in stagnant pools, but not in running water.\n\nwhakaeanga, n.\n              Object of affection.\n\nwhakaeaea.\n              1. v.t.\n              Lift or\n              draw out of the water. Tukutukua i Rangiaowhia, whakaeaea i te Mamaku (T. 178).\n\n2.\n              Ease pain. He whakaeaea mo te mamae.\n\n3.\n              Utter disconnectedly, as through want of breath;\n              sob. Whakaeaea ana te tangi a toku ihu (M. 120).\n\n\n\nEai, int. expressing admiration, Eai au tini kakahu! This, perhaps, should be e\n              ai, and referred to\n              ai (ii).\n\n\n\nEaoia, int. expressing assent. =\n              e ao ia. ‖\n              ao (iii).\n\n\n\nEhake, ad.\n              Not. Ehake tenei tangata. ‖\n              chara.\n\n\n\nĒhara, ad.\n              1.\n              Not, stating non-identity, and followed by\n              i. Ehara i te tikanga tangata (T. 61).\n              Ehara i te mea,\n              it is not the case that. Sometimes with an ellipsis of\n              i te mea, as, Ehara maku nga moni.\n              Ehara i te hanga, perhaps =\n              ehara i te hanga noa iho,\n              it is no common thing, i.e.,\n              it is something extraordinary.\n              Ehara is sometimes used alone in this sense. Ehara! ta te pari pai hoki (T. 160). Ehara ano te haere o tera toa! (T. 60).\n\n2. Used with\n              i in a negative sentence where the positive statement would require the use of\n              na or\n              no. Ehara i a koe tenei kainga, noku ano (T. 79). Ehara i konei; mehemea no konei, he hauraro noa iho te kakahu o te weruweru (T. 147).\n\n3. In animated narrative,\n              without doubt, sure enough. Tahi ano whakarerenga iho o tana meremere; ehara, kua mate (T. 120).\nN\n              ote.—Early writers in New Zealand printed\n              e hara; this is not now usual. ‖\n              hara (iii).\n\n\n\nĒhe, ehē, int. expressing surprise. If the form\n              ehē is used, dissent is implied.\n\n\n\nEhea, pron. interrogative, plural of\n              tēhea.\n              Which?\n\n\n\nEhi, int.\n              Well! Ehi! kua rite o maua nei hiahia (T. 131).\n\n\n\nEhia =\n              e hia. ‖\n              hia (i).\n\n\n\nEhinu, pron. definitive plural.\n              Some. Kei hea ehinu o nga toki?—Ko tona kawenga i tuwhaina ki ehinu o nga kai-waha (Ha 303). ‖\n              etokohinu, tokohinu.\n\n\n\nEhu (i).\n              1. a.\n              Turbid. He wai ehu, he wai para-horo.\n\n2. v.t.\n              Bail, or more accurately\n              dash, the water out of a canoe by means of a paddle moved briskly from side to side. Ka ehua te wai o tona waka (T. 111).\n\n3.\n              Exhume, disinter. No te ehunga i a Te Eke. ‖\n              hahu.\n\nwhakaehu, v.t.\n              Scatter, disperse. Kaua e whakaehu i nga poaka.\n\n\n\nEhu (ii) =\n              ahua, n.\n              Appearance, form. Ruia te taitea, tu te ehu tapu (M. 206). He kumara kai hamuhamu ko te ehu o te kupu na.\n\nwhakaehu, v.i.\n              Appear dimly. Ngari te tahakura whakaehu rawa mai, a whiti rere\n\n              \n\n              ake ka hewa kei te ao (S.). Ko to wairua i haramai whakaehu (S. 68).\n\n\n\nEi, int. in poetry and occasionally in prose. Haere atu ra, ei (M. 251). Ei, tena te rakau ka hoa (T. 98). Ano ra ko Tama, “Eii, ka ora rapea ahau” (M. vii).\n\n\n\nEke, v.i.\n              1. Generally\n              place oneself or\n              be placed upon another object, and so:\n\n2.\n              Embark. Nga waka i eke mai ai o matou tupuna ki tenei motu (T. 69).\n\n3.\n              Get aground, come to land. Ka eke ki uta; ka kitea nuitia e nga tangata (T. 57).\n\n4.\n              Rise, as a star. Ka eke te whetu o te rangi (W. i, 89).\n\n5.\n              Rise in swellings. He mate pukupuku, ka papauku katoa te kiri, he eke no te kiri.\n\n6.\n              Be laid or\n              cast upon, as blame, censure, etc. Ka ekengia ahau e te kupu (\n              I am the subject of blame; I am found fault with).\n\n7.\n              Come to be exercised over, as control, authority, etc. He whakaaro nana, kei eke mai he tikanga ma te matua ki runga ki nga taonga i wehea mai mona.\n\n8.\n              Thicken in cooking. ‖\n              etc.\n\n9. v.t.\n              Raise. Na ka ekea a Rangi ki runga (Tr. vii, 33).\n\n10.\n              Climb. He pukepuke moana e ekeina e te waka (P. 26).\n\n11.\n              Mount a horse, etc.;\n              reach the summit of a mountain, etc. Haere ano ratou, ka eke i runga i te puke (T. 79).\n\nwhakaeke.\n              1. v.t.\n              Attack, assault. Ka whakaekea tonutia e te mano (T. 176). Te ingoa o te pa ko Te Hape, ka whakaekea e te taua.\n\n2.\n              Make a rush. Ka whakaekea e te tangata whenua ki roto i te whare o te manuhiri (T. 193).\n\n3.\n              Lead an army\n              to the attack. Katahi ka whakaekea te taua raka ki roto i nga pa (T. 81).\n\n4.\n              Earth up crops. Kahore ano kia whakaekea nga riwai.\n\n5.\n              Place upon, load. Ka pau te tui te whakaeke ki te ngohi (\n              When the cord was fully laden with fish) (T. 179.).\n\n6. v.i.\n              Climb upon, mount. Kei whakaeke koe ki runga ki te peka patate (M. 403).\n\n7.\n              Alight. Ka whakaeke ki raro ki te whenua (Tr. vii, 38).\n\n8. n.\n              Visitor, guest. Ko etahi rawhi ka pau ma nga whakaeke (T. 185).\n\n9.\n              Ally, body of supporting troops. Katahi ka tae mai te whakaeke a Karopiti, no Kawhia, hei haumi i a ratou.\n\nwhakaekeeke.\n              1. v.t.\n              Invade.\n\n2. v.i.\n              Follow in quick succession. He ua whakaekeeke; taro kau iho kua ua ano.\n\n3. n.\n              Arrival of guests.\n\n\n\nEkieki =\n              ikeike, a.\n              High, lofty.\n\n\n\nEml, emiemi, v.i.\n              1.\n              Be assembled, be gathered together. Ka emi mai te mano o te tangata ki te haka (M. vii). Kua emiemi nga tangata ki te whare.\n\n2.\n              Be ashamed.\n\nemiemi, n.\n              1.\n              Dracophyllum latifolium, a tree. =\n              neinei.\n\n2.\n              Bract at footstalk of a gourd.\n\nwhakaemi, v.t.\n              Gather together. Katahi ka whakaemia kia kite i te patunga o Whakaturia (T. 64).\n\n\n\nEna, plural of definitive\n              tena.\n              Those near or connected with the person spoken to.\n\n\n\nEnaka =\n              ena.\n\n\n\nEnanga, a.\n              Like, having the form or appearance of.\n\n\n\nEne.\n              1. v.t.\n              Flatter, cajole. He ene te korero a te tangata nei, ma wai e whakarongo atu ?\n\n2. n.\n              Anus.\n              Tou ene, or\n              mau tou ene, a contemptuous rejection of an offer.\n\nwhakaene.\n              1. v.t.\n              Make smooth. Haere mai ki te whakaene i nga parua i tanumia e ou matua.\n\n2.\n              Present the posteriors in derision.\n\n3. n. Certain sacred rites. Ka tahuna te ahi whakaene, ka karakia te tohunga, ka hoatu te taio makawe.—I tahuna mai au ki te ahi whakaene ki' mate te wairua (S.).\n\neneene.\n              1. v.t.\n              Endeavour to obtain by flattery, coaxing, etc. Kei te eneene kai mana.\n\n2.\n              Incite, provoke; as in eneene riri,\n              provoke a quarrel.\n\n3. a.\n              Utterly consumed, wasted, bare. Kua eneene noa aku kai.—Eneene ana\n              nga kai o te kainga nei, monemone ana i te\n              poaka.\n\nwhakaeneene. 1. v.i.\n              Dawdle. E tama! he mahi whakaeneene tau.\n\n2. In the expression moe\n              whakaeneene,\n              practise sodomy.\n\n\n\nEnei, plural of definitive\n              tenei.\n              These near or connected with the speaker.\n\n\n\nEnga, n.\n              Anxiety.\n\nengaenga, v.i.\n              Overflow.\n\n\n\nEngaio, n. A parasitic worm infesting\n              kaka, kokopu, inanga, and\n              weta; commonly termed the “Gordian worm” =\n              ngaio.\n\n\n\nEngari, engaringari (formerly written\n              e ngari) =\n              erangi, conj.\n              1.\n              It is better. Akuanei pea ka mate ko au: engari pea me haere noa atu au ki te kimi kainga ke atu hei oranga moku (T. 119).\n\n2.\n              But, but rather. Kei hopu tou ringa ki te aka taepa, engari kia manu ki te aka matua (T. 48).\n\n3.\n              On the contrary, on the other hand. He nui tona mohio, tona marie; engari, ki te puta atu te tangata o te iwi ke … ka whakatika ki te tautau mai (T. 156).\nN\n              ote.—In Uv., To., Fu., and Ni.,\n              gali (i.e.,\n              ngali) means\n              likely, fit, becoming.\n\n\n\nEngei. A particle of uncertain meaning. He maripi engei au ? (\n              Have you a knife ?) ‖ nge.\n\n\n\nEngia, ad. expressing assent.\n              Engia ane? (\n              Is it really ?) ‖\n              koia.\n\n\n\n\n\nEo, n.\n              Louse. =\n              kutu.\n\nwhakaeo.\n              1. v.t.\n              Deprive of power, cause\n              to waste away, generally by occult means. Mehemea ka oho te taniwha, me tu atu te tangata ki te whakaeo.—Ahakoa i waiho i te moana aua mea kino, ka whakaeotia kia mutu.\n\n2. n.\n              Ill luck, brought upon canoes, nets, etc., by carelessly omitting to remove all of the previous day's catch. Ki te whakaeonga o te kete inanga (M. 402 (M.S.)). ‖\n              ero.\n\n\n\nEpa (i).\n              1. v.t.\n              Pelt. Katahi tona papa ka whakatau epa ake (T. 16).\n\n2.\n              Throw, cast. Epaina atu ana e Hine te kohatu ki te wahine i mua (W. ii, 122).\n\n3. n.\n              Thunderbolt. Ko nga hapu e tangi nei i te rangi, nga ingoa o ena tangata, ko Whaitiri-pakapaka, ko te Epa … he hapu atua enei no te iwi Maori.\n\n4. Something connected with sacred rites.\n              ? Offering. Ka hikihiki te epa, ka rangahau te epa, ko te epa o Tutawake (S.). Whakatu te epa o te ariki, hiki ake oriaria (M. 414).\n\n5.\n              Objection, hindrance. Kahore he epa mo tena.\n\nwhakaepa.\n              1. v.t.\n              Cast, throw. E kore e whakaepaia ki runga ki te waka tona tinana.\n\n2.\n              Conciliate, propitiate, make much of. Ka tata mai te aroha ki te tau ra, e, i whakaepa i taku ohinga (S. ii, 38).\n\n3.\n              Land a shark in the canoe (Tr. xliii, 601).\n\n4. n.\n              Propitiatory offering.\n\n5.\n              Horizontal parts of the\n              tiwhana design in tattooing.\n\nepaepa, v.t.\n              Pelt continuously. Roa noa atu ratou e epaepa ana i a ia (T. 16).\n\nwhakaepaepa, v.t.\n              1.\n              Object to, hinder Kahore tatou i te tika e ahei ai i a tatou te whakaepaepa.\n\n2.\n              Conciliate. Riro ana taku poaka hei whakaepaepa mo te tohunga.—Ka meatia te aute hai whakaepaepa atua.\n\n\n\nEpa (ii), n. Posts at the ends of a Maori house between the\n              poupou and\n              poutāhu. ‖\n              J. v, 148.\n\n\n\nEpeepe, n.\n              Distant relative.\n\n\n\nEra, plural of definitive\n              tera.\n              Those yonder.\n\n\n\nErangi =\n              engari.\n\n\n\nEro.\n              1. a.\n              Putrid. Kua eroa te ika nei.\n\n2.\n              Thin, emaciated. Koukou mata ero koi runga (M. 421). E ki mai na koe, he ero.\n\n3. n.\n              Discharge from a sore or boil,\n              pus.\n\n4.\n              Decrease, diminution. E te hua, e te ero (M. 327).\n\nwhakaero.\n              1. v.i.\n              Putrefy. Ki te whakaeronga o to kete inanga (M. 402). ‖\n              whakaeo.\n\n2.\n              Diminish, dwindle, disappear. Ko te whakaerotanga hoki tenei o te mana me te tapu nui o to tupuna, o Tama-te-kapua, i hoki mai ai ki ahau (\n              J. ii, 227). Whakaero ana te tangata, whakaero ana hoki te taonga.\n\n3. v.t. Perform a ceremony for the well-being of a canoe. He aha te take mau e whakaero to koutou waka (\n              J. iii, 61).\n‖ Uv., To., Fu., Sa.:\n              elo,\n              putrid, stench.\n\n\n\nĒtahi, plural of definitive\n              tetahi.\n              Some.\n\n\n\nEtahi, int.\n              How great ! Etahi te oha a to tangata ! (i.e., yourself). ‖\n              katahi.\n\n\n\nĒtē, int. calling attention. Ete ! nekeneke atu kia watea.\n\n\n\nEte, v.i.\n              Thicken in cooking. ‖\n              eke.\n\nwhakaete, v.t.\n              Force one's way, etc.,\n              press through a crowd. Ka whakaetea he nohoanga mona.—Kei hea ou tuakana, ou teina hei whakaete nohoanga ? (M. 189). Mate atu he tete kura, whakaete mai he tete kura (P.).\n\n\n\nEtehi =\n              etahi. Te rongo etehi, wehea ake etehi (T. 5).\n\n\n\nEti, v.i.\n              Shrink, recoil. Ka eti toku kiri i konei.\n\netieti, a.\n              Disgusting. ‖\n              wetiweti.\n\nwhakaetieti, v.t.\n              Loathe. E noho koe i uta na kia whakaetietia koe e te tangata (W.W. 48).\n\n\n\nEtia.\n              1. ad.\n              As it were, as if. Etia he waha tangata (T. 116). Etia ano aku mata me te mata ruru e tiwai ana (S. ii, 73).\n\n2.\n              Perhaps. Etia kei te moe koe.\n\n3. int.\n              How great! Etia tonu tou humarire ! (T. 164).\n\n\n\nEto, a.\n              Lean, attenuated.\n\nwhakaeto, v.t.\n              Evaporate.\n\n\n\nEtokohinu =\n              ehinu.\n              Some, used only when speaking of persons.\n\n\n\nEuē, int. =\n              aue.\n\n\n\nEwa.——\n\nwhakaewa, whakaewaewa, n.\n              1. Strips of reddish-yellow flax used to ornament some forms of cloak.\n\n2. A cloak so ornamented. =\n              mangaeka.\n\n\n\nEwarangi.——\n\nwhakaewarangi, n. An ornamented cloak. Uhia au te whakaewarangi (M.M. 77). ‖\n              whakaewa.\n\n\n\nEwe, n.\n              1.\n              Placenta, or\n              afterbirth. Ka tanumia te ewe, kiia iho te wahi i tapukea ai ko Te-ewe-o-Tuwhakairiora (J. xx, 18).\n\n2.\n              Land of one's birth.\n\n3.\n              Mother.\n\n4.\n              Womb. (Tu.)\n\neweewe, n.\n              Blood relative.\n\n\n\nEweewerau, n. Some portion of the afterbirth. =\n              kawekawerau.\n\n\n\nEwekuri, n.\n              Paratrophis banksii, a tree. =\n              turepo.\n\n\n\n\n\n\n\n[Finished in 253ms]",
-			"file": "E.yaml",
-			"file_size": 19679,
-			"file_write_time": 133921829342476938,
-			"settings":
-			{
-				"buffer_size": 19489,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					5,
-					1,
-					"left_delete",
-					null,
-					"AQAAALwKAAAAAAAAvAoAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAAvQoAAAAAAAC9CgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					8,
-					1,
-					"left_delete",
-					null,
-					"AQAAAMYKAAAAAAAAxgoAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAAxwoAAAAAAADHCgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					11,
-					1,
-					"left_delete",
-					null,
-					"AQAAAI8LAAAAAAAAjwsAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAAkAsAAAAAAACQCwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					14,
-					1,
-					"left_delete",
-					null,
-					"AQAAAMwLAAAAAAAAzAsAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAAzQsAAAAAAADNCwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					21,
-					5,
-					"left_delete",
-					null,
-					"BQAAAAAMAAAAAAAAAAwAAAAAAABDAAAARSAhIGt1YSBvcmEgYSBSYXVtYXRpIChULiAxMDIpLiBFICEga28gdGUgVGUgS2FodXJlcmVtb2EgKFQuIDE0NCkuCv8LAAAAAAAA/wsAAAAAAAABAAAACv4LAAAAAAAA/gsAAAAAAAABAAAACv0LAAAAAAAA/QsAAAAAAAABAAAACvwLAAAAAAAA/AsAAAAAAAABAAAACg",
-					"AQAAAAAAAAABAAAAAAwAAAAAAABDDAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					22,
-					1,
-					"reindent",
-					null,
-					"AQAAAPwLAAAAAAAABAwAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA/AsAAAAAAAD8CwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					23,
-					1,
-					"insert",
-					{
-						"characters": "\t\t"
-					},
-					"AgAAAAQMAAAAAAAABgwAAAAAAAAAAAAABgwAAAAAAAAIDAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABAwAAAAAAAAEDAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					24,
-					3,
-					"left_delete",
-					null,
-					"AwAAAAYMAAAAAAAABgwAAAAAAAACAAAAICAEDAAAAAAAAAQMAAAAAAAAAgAAACAgAgwAAAAAAAACDAAAAAAAAAIAAAAgIA",
-					"AQAAAAAAAAABAAAACAwAAAAAAAAIDAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
 		[
 			[
 				[
@@ -153,6 +88,42 @@
 		"selected_items":
 		[
 			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"wire",
+				"Wiremu Boilerplate"
+			],
+			[
+				"w",
+				"Wiremu Boilerplate"
+			],
+			[
+				"wi",
+				"Wiremu Boilerplate"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"wirem",
+				"Wiremu Boilerplate"
+			],
+			[
+				"wiremu",
+				"Wiremu_New_Word"
+			],
+			[
+				"wir",
+				"Wiremu_New_Word"
+			],
+			[
+				"yaml",
+				"Insert Rākau YAML"
+			],
+			[
 				"insert",
 				"Insert Rākau YAML"
 			],
@@ -181,10 +152,6 @@
 				"Package Control: List Unmanaged Packages"
 			],
 			[
-				"yaml",
-				"Set Syntax: YAML"
-			],
-			[
 				"preferences ESP-",
 				"Preferences: LSP-eslint Settings"
 			],
@@ -195,10 +162,6 @@
 			[
 				"prefe",
 				"Preferences: Settings"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
 			],
 			[
 				"packagedev",
@@ -269,7 +232,7 @@
 	},
 	"console":
 	{
-		"height": 103.0,
+		"height": 90.0,
 		"history":
 		[
 			"window.run_command(\"expand_selection\", {\"to\": \"brackets\"})",
@@ -315,6 +278,9 @@
 	"file_history":
 	[
 		"/Users/teaohou/mahi/wiremu/E.yaml",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/wiremu.sublime-snippet",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/eou.sublime-snippet",
+		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/wiremu_boilerplate.py",
 		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/YAML-with-Roman.sublime-syntax",
 		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/box_word.sublime-commands",
@@ -358,6 +324,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" kei te rangi” (T. 49).",
+			"\")"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -379,39 +347,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "E.yaml",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19489,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2921,
-								2921
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/User/YAML-with-Roman.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3995.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -450,13 +385,17 @@
 	{
 		"height": 210.0
 	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.diagnostics":
 	{
 		"height": 210.0
 	},
 	"output.exec":
 	{
-		"height": 45.0
+		"height": 119.0
 	},
 	"output.find_results":
 	{
@@ -466,7 +405,7 @@
 	{
 		"height": 286.0
 	},
-	"pinned_build_system": "Virtual Environment",
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
 	"project": "wiremu.sublime-project",
 	"replace":
 	{
