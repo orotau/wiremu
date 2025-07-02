@@ -158,7 +158,7 @@ E:
         source: (M. vii)
       - text: Koia tēnei pepeha mō te mea kite, e ka kitea te taonga makere
         source: (M. xi)
-        bit: It is often used without any verbal particle
+        bit01: It is often used without any verbal particle
       - text: E whiti koe ki rawahi, me haere tonu atu koe
         source: (T. 110)
         whakapākehātanga: When you get across the sea, go right on
@@ -241,7 +241,7 @@ Ea:
       Reappear, as the moon at new moon.
 
     examples_of_use:
-      - text: Ka tatari a Maia kia ea te marama, ara kia tae ki te Hoata.
+      - text: Ka tatari a Maia kia ea te marama, arā kia tae ki te Hoata.
         source: null
 
 
@@ -278,7 +278,7 @@ Ea:
     examples_of_use:
       - text: Kāore anō i ea tōku kākahu.
         source: null
-      - text: 'Tu pupu, tu ngaro; tu kete, tu ea.'
+      - text: Tu pupu, tu ngaro; tu kete, tu ea.
         source: (P.)
         english_translation: >
           A portion [of food] in a little bundle is a portion
@@ -346,7 +346,7 @@ whakaea:
 
 
   - branch_number: i-3
-    parent: engari
+    parent: ea
     part_of_speech: null
     definition: >
       Perform an incantation.
@@ -358,94 +358,278 @@ whakaea:
         source: (M. xxi)
 
 
-4.
-              Spread, extend. Whakaea marire atu aku parirau (M. 113).
+  - branch_number: i-4
+    parent: ea
+    part_of_speech: null
+    definition: >
+      Spread, extend.
 
-5. v.i.
-              Appear above the surface. Nga motu whakaea i waho o Motutawa (M. 333).
-
-6.
-              So, draw breath. Whakaea te manawa o Rangi (M. 356).
-
-7. n. A species of
-              eel found in stagnant pools, but not in running water.
-
-whakaeanga, n.
-              Object of affection.
-
-whakaeaea.
-              1. v.t.
-              Lift or
-              draw out of the water. Tukutukua i Rangiaowhia, whakaeaea i te Mamaku (T. 178).
-
-2.
-              Ease pain. He whakaeaea mo te mamae.
-
-3.
-              Utter disconnectedly, as through want of breath;
-              sob. Whakaeaea ana te tangi a toku ihu (M. 120).
+    examples_of_use:
+      - text: Whakaea mārire atu aku parirau
+        source: (M. 113)
 
 
+  - branch_number: i-5
+    parent: ea
+    part_of_speech: v.i.
+    definition: >
+      Appear above the surface.
 
-Eai, int. expressing admiration, Eai au tini kakahu! This, perhaps, should be e
-              ai, and referred to
-              ai (ii).
-
-
-
-Eaoia, int. expressing assent. =
-              e ao ia. ‖
-              ao (iii).
-
+    examples_of_use:
+      - text: Ngā motu whakaea i waho o Motutawa
+        source: (M. 333)
 
 
-Ehake, ad.
-              Not. Ehake tenei tangata. ‖
-              chara.
+  - branch_number: i-6
+    parent: ea
+    part_of_speech: null
+    definition: >
+      So, draw breath.
+
+    examples_of_use:
+      - text: Whakaea te manawa o Rangi
+        source: (M. 356)
 
 
+  - branch_number: i-7
+    parent: ea
+    part_of_speech: n.
+    definition: >
+      A species of eel found in stagnant pools, but not in running water.
 
-Ēhara, ad.
-              1.
-              Not, stating non-identity, and followed by
-              i. Ehara i te tikanga tangata (T. 61).
-              Ehara i te mea,
-              it is not the case that. Sometimes with an ellipsis of
-              i te mea, as, Ehara maku nga moni.
-              Ehara i te hanga, perhaps =
-              ehara i te hanga noa iho,
-              it is no common thing, i.e.,
-              it is something extraordinary.
-              Ehara is sometimes used alone in this sense. Ehara! ta te pari pai hoki (T. 160). Ehara ano te haere o tera toa! (T. 60).
-
-2. Used with
-              i in a negative sentence where the positive statement would require the use of
-              na or
-              no. Ehara i a koe tenei kainga, noku ano (T. 79). Ehara i konei; mehemea no konei, he hauraro noa iho te kakahu o te weruweru (T. 147).
-
-3. In animated narrative,
-              without doubt, sure enough. Tahi ano whakarerenga iho o tana meremere; ehara, kua mate (T. 120).
-N
-              ote.—Early writers in New Zealand printed
-              e hara; this is not now usual. ‖
-              hara (iii).
+    examples_of_use:
+      - text: null
+        source: null
 
 
+---
+##############
+# whakaeanga #
+##############
+whakaeanga:
+  - branch_number: i-1
+    parent: ea
+    part_of_speech: n.
+    definition: >
+      Object of affection.
 
-Ēhe, ehē, int. expressing surprise. If the form
-              ehē is used, dissent is implied.
+    examples_of_use:
+      - text: null
+        source: null
 
 
+---
+#############
+# whakaeaea #
+#############
+whakaeaea:
+  - branch_number: i-1
+    parent: ea
+    part_of_speech: v.t.
+    definition: >
+      Lift or draw out of the water.
 
-Ehea, pron. interrogative, plural of
-              tēhea.
-              Which?
+    examples_of_use:
+      - text: Tukutukua i Rangiaowhia, whakaeaea i te Mamaku
+        source: (T. 178)
 
 
+  - branch_number: i-2
+    parent: ea
+    part_of_speech: null
+    definition: >
+      Ease pain.
 
-Ehi, int.
-              Well! Ehi! kua rite o maua nei hiahia (T. 131).
+    examples_of_use:
+      - text: He whakaeaea mō te mamae.
+        source: null
 
+
+  - branch_number: i-3
+    parent: ea
+    part_of_speech: null
+    definition: >
+      Utter disconnectedly, as through want of breath; sob.
+
+    examples_of_use:
+      - text: Whakaeaea ana te tangi a tōku ihu
+        source: (M. 120)
+
+
+---
+#######
+# Eai #
+#######
+Eai:
+
+  - branch_number: i-1
+    parent: null
+    part_of_speech: int
+    definition: >
+      expressing admiration
+
+    examples_of_use:
+      - text: Eai au tini kakahu!
+        source: null
+        bit01: This, perhaps, should be e ai, and referred to [ai (ii)].
+        # [] for a link that will be added later but is not
+        # specifically indicated in the text by = or ||
+
+
+---
+#########
+# Eaoia #
+#########
+Eaoia:
+
+  - branch_number: i-1
+    parent: null
+    part_of_speech: int
+    definition: >
+      expressing assent
+
+    examples_of_use:
+      - text: null
+        source: null
+        bit01: = e ao ia ‖ ao (iii).
+
+
+---
+#########
+# Ehake #
+#########
+Ehake:
+
+  - branch_number: i-1
+    parent: null
+    part_of_speech: ad.
+    definition: >
+      Not
+
+    examples_of_use: 
+      - text: Ehake tēnei tangata.
+        source: null
+        bit01: ‖ Ehara
+
+
+---
+#########
+# Ehara #
+#########
+Ehara:
+
+  - branch_number: i-1
+    parent: null
+    part_of_speech: ad.
+    definition: >
+      Not, stating non-identity, and followed by i.
+
+    examples_of_use:
+      - text: Ehara i te tikanga tangata
+        source: (T. 61)
+      - text: Ehara i te mea
+        source: null
+        whakapākehātanga: it is not the case that
+        bit01: Sometimes with an ellipsis of i te mea, as,
+             Ehara māku ngā moni.
+        bit02: Ehara i te hanga, perhaps = ehara i te hanga noa iho,
+             it is no common thing, i.e., it is something extraordinary.
+        bit03: Ehara is sometimes used alone in this sense.
+      - text: Ehara! ta te pari pai hoki
+        source: (T. 160)
+      - text: Ehara ano te haere o tera toa!
+        source: (T. 60)
+
+  - branch_number: i-2
+    parent: null
+    part_of_speech: null
+    definition: >
+      Used with i in a negative sentence where the positive statement
+      would require the use of na or no.
+
+    examples_of_use:
+      - text: Ehara i a koe tenei kainga, noku ano
+        source: (T. 79)
+      - text: Ehara i konei; mehemea no konei, he hauraro noa iho
+              te kakahu o te weruweru
+        source: (T. 147)
+
+  - branch_number: i-3
+    parent: null
+    part_of_speech: null
+    definition: >
+      In animated narrative, without doubt, sure enough
+
+    examples_of_use:
+      - text: Tahi ano whakarerenga iho o tana meremere; ehara, kua mate
+        source: (T. 120)
+        bit01: Note.—Early writers in New Zealand printed
+               e hara; this is not now usual. ‖ hara (iii).
+
+
+---
+############
+# Ēhe, ehē #
+############
+Ēhe, ehē:
+
+  - branch_number: i-1
+    parent: null
+    part_of_speech: int
+    definition: >
+      Expressing surprise. If the form ehē is used, dissent is implied.
+    examples_of_use: 
+      - text: null
+        source: null
+
+
+---
+########
+# Ēhea #
+########
+Ēhea:
+
+  - branch_number: i-1
+    parent: null
+    part_of_speech: pron
+    definition: >
+      interrogative, plural of tēhea. Which?
+
+    examples_of_use:
+      - text: null
+        source: null
+
+
+---
+#######
+# Ehi #
+#######
+Ehi:
+
+  - branch_number: i-1
+    parent: null
+    part_of_speech: int
+    definition: >
+      Well!
+
+    examples_of_use:
+      - text: Ehi! kua rite o maua nei hiahia
+        source: (T. 131)
+
+
+---
+########
+# Ehia #
+########
+Ehia:
+
+  - branch_number: i-1
+    part_of_speech: null
+    definition: >
+      null
+    examples_of_use: 
+      - text:   
+        source: 
 
 
 Ehia =

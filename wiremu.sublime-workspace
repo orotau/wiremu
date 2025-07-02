@@ -39,6 +39,46 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/wiremu.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 342,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					5,
+					"left_delete",
+					null,
+					"BQAAAJ4AAAAAAAAAngAAAAAAAAABAAAAfZ0AAAAAAAAAnQAAAAAAAAABAAAANZwAAAAAAAAAnAAAAAAAAAABAAAAe5sAAAAAAAAAmwAAAAAAAAABAAAAJJoAAAAAAAAAmgAAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACfAAAAAAAAAJ8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AgAAAKsAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACsAAAAAAAAAAEAAAA2",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACrAAAAAAAAAKwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "6"
+					},
+					"AgAAAMAAAAAAAAAAwQAAAAAAAAAAAAAAwQAAAAAAAADBAAAAAAAAAAEAAAA3",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADAAAAAAAAAAMEAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -88,12 +128,12 @@
 		"selected_items":
 		[
 			[
-				"insta",
-				"Package Control: Install Package"
+				"wire",
+				"Wiremu New Word"
 			],
 			[
-				"wire",
-				"Wiremu Boilerplate"
+				"insta",
+				"Package Control: Install Package"
 			],
 			[
 				"w",
@@ -324,6 +364,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			";",
 			" kei te rangi” (T. 49).",
 			"\")"
 		],
@@ -347,6 +388,38 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/teaohou/Library/Application Support/Sublime Text/Packages/User/wiremu.sublime-snippet",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PackageDev/Package/Sublime Text Snippet/Sublime Text Snippet.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -387,7 +460,10 @@
 	},
 	"output.SublimeLinter":
 	{
-		"height": 0.0
+		"height": 0.0,
+		"history":
+		[
+		]
 	},
 	"output.diagnostics":
 	{
@@ -399,7 +475,10 @@
 	},
 	"output.find_results":
 	{
-		"height": 0.0
+		"height": 0.0,
+		"history":
+		[
+		]
 	},
 	"output.package_dev":
 	{
